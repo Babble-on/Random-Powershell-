@@ -1,0 +1,1 @@
+Powershell code snippet to semi-hide your credentials in a powershell script
