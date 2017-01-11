@@ -1,0 +1,1 @@
+﻿Get-childitem -recurse -include *.log | select-string "127.0.0.1"
